@@ -89,7 +89,7 @@ First, often we don't have the real data, so it's an invaluable substitute.  Sec
 
 If the difference is significant, you can start theorizing why that might be - what is missing from your model?  If the difference isn't significant, then move on - generally you shouldn't waste your time wondering about insignificant differences!
 
-So which model is better?  Probably *neither*.  They are both suggesting the same conclusion - there isn't much behind winning streaks other than chance,  and the underlying talent of the team. The statistical calculations we've made seem to model the observed data pretty well.  There are of course other factors - some really great teams might have few win streaks because of one bad starting pitch, for example.  These variations are minor however, and over a 50+ year period and 1500+ team seasons, those variations do not appear to skew the overall numbers significantly.  
+So which model is better?  Probably *neither*.  They are both suggesting the same conclusion - there isn't much behind winning streaks other than chance,  and the underlying talent of the team. The statistical calculations we've made seem to model the observed data pretty well.  There are of course other factors - some really great teams might have few win streaks because of one bad starting pitcher, for example.  These variations appear minor however, and over a 50+ year period and 1500+ team seasons, those variations do not appear to skew the overall numbers significantly.  
 
 Statistically determining significance is outside the scope of this class, but is a critical component of your statistics coursework.   For now, make sure you plot the graph of the observed data, and predicted (both models) and note the similarity of the data.
 
