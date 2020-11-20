@@ -78,7 +78,7 @@ For each win streak length, calculate the summation of the number of expected wi
 If you are a baseball fan, you might be able to for some conjecture as to why this is... maybe teams really do gain momentum and confidence, which makes them slightly more likely to extend winning streaks?
 
 ### Model 2:  Direct data
-Using a normal distribution is simple, and easy to compute.  However, **we actually know the winning percentage of each team**!  We can use that instead, and base our prediction on the real numbers.  For this model, calculate the expected number of win streaks of each length by computing the sum of the expected number of streaks based on each of the 1518 actual winning percentages your calculated in **Part 1**.    You should come out with 1183 expected 7 game streaks, and 113 expected 15 game winning streaks (you should compute them all of course).
+Using a normal distribution is simple, and easy to compute.  However, **we actually know the winning percentage of each team**!  We can use that instead, and base our prediction on the real numbers.  For this model, calculate the expected number of win streaks of each length by computing the sum of the expected number of streaks based on each of the 1518 actual winning percentages your calculated in **Part 1**.    You should come out with 1183 expected 7 game streaks, and 13 expected 15 game winning streaks (you should compute them all of course).
 
 Notice something interesting here... when you use the real data, the *expected* number of streaks is actually just a bit more than objected for all but the longest streaks.  If you agreed with the "momentum" theory proposed after Model 1 (normal probability curve), you might feel a bit burned now... because our new model suggests otherwise!
 
